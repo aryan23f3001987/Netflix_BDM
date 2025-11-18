@@ -16,8 +16,7 @@
 
 <br>
 
-[![View Analysis](https://img.shields.io/badge/📊_View_Full_Analysis-E50914?style=for-the-badge)](https://colab.research.google.com/drive/YOUR_LINK_HERE)
-[![Download Report](https://img.shields.io/badge/📄_Download_Report-221F1F?style=for-the-badge)](https://github.com/yourusername/netflix-insights/blob/main/23f3001987-Final.pdf)
+[![View Analysis](https://img.shields.io/badge/📊_View_Full_Analysis-E50914?style=for-the-badge)](https://colab.research.google.com/drive/1BHOuHD8R-_TcE0FhedRP5fa-tBX_ibLu?usp=sharing)
 
 ---
 
@@ -91,12 +90,15 @@ Median Release:   2017
 
 ### 🎭 **Content Type Evolution**
 
+</div>
 ```
 Movies    ████████████████████████████████████████████████████████████████████ 69%
 TV Shows  ███████████████████████████████████ 31%
 ```
 
+<div align="center">
 ### 🌍 **Top 10 Content-Producing Countries**
+</div>
 
 ```
 USA           ████████████████████████████████████████████ 3,689
@@ -110,9 +112,9 @@ Spain         ███ 115
 Mexico        ██ 110
 Egypt         ██ 106
 ```
-
+<div align="center">
 ### 🎬 **Maturity Rating Distribution**
-
+</div>
 ```
 TV-MA    ██████████████████████████████████████ 40%
 TV-14    ████████████████████ 22%
@@ -121,17 +123,15 @@ R        ████████ 9%
 PG-13    ██████ 7%
 Others   ██████████ 11%
 ```
-
+<div align="center">
 ### 📅 **Content Release Timeline**
-
+</div>
 ```
 Pre-2000:  ▁▁▂▂▃  (Classic catalog)
 2000-2010: ▃▄▅▆▇  (Gradual growth)
 2010-2015: ██████ (Expansion phase)
 2015-2021: ████████████████████ (Original content explosion)
 ```
-
-</div>
 
 ---
 
@@ -298,7 +298,7 @@ netflix-content-insights/
 
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/drive/1BHOuHD8R-_TcE0FhedRP5fa-tBX_ibLu?usp=sharing)
 
 **Click above → Run All → Instant insights!** ⚡
 
@@ -396,14 +396,14 @@ Delivered **5 high-impact recommendations** with ROI projections
 
 ## 🏆 Impact & Results
 
-### **Business Value Delivered**
+<!-- ### **Business Value Delivered**
 
 | Insight Area | Potential Impact | Timeframe |
 |:------------|:-----------------|:----------|
 | **Regional Expansion** | +15-25% subscriber growth in emerging markets | 2-3 years |
 | **Family Content** | +20% household account penetration | 1-2 years |
 | **Genre Diversification** | -8-12% churn reduction | 1 year |
-| **Local Originals** | +30-40% retention in target markets | 2-3 years |
+| **Local Originals** | +30-40% retention in target markets | 2-3 years | -->
 
 ### **Competitive Advantage**
 
@@ -440,21 +440,6 @@ Found an insight we missed? Have suggestions for deeper analysis?
 
 ---
 
-## 📄 Citation
-
-If you use this analysis in your research or projects, please cite:
-
-```bibtex
-@misc{thakur2025netflix,
-  author = {Thakur, Aryan},
-  title = {Strategic Content Insights for Netflix: Genre Popularity, Regional Trends and Audience Segmentation},
-  year = {2025},
-  publisher = {IIT Madras},
-  journal = {BDM Capstone Project},
-  howpublished = {\url{https://github.com/yourusername/netflix-content-insights}}
-}
-```
-
 ---
 
 ## ⭐ Support This Project
@@ -468,19 +453,13 @@ If you found this analysis valuable:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-**Dataset Source**: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) (Kaggle - CC0: Public Domain)
-
 ---
 
 <div align="center">
 
 ### 🎬 *"Data tells the story that content creates"*
 
-**Made with ❤️ and ☕ by Aryan Thakur**
+**Made by Aryan Thakur**
 
 [![IIT Madras](https://img.shields.io/badge/IIT_Madras-Online_BS_Program-003366?style=for-the-badge)](https://onlinedegree.iitm.ac.in/)
 
